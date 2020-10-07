@@ -1,0 +1,2 @@
+# OpenBSD
+Just another repository
