@@ -1,0 +1,157 @@
+show current speed
+/script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
+Warrior Macros
+Battle Shout
+#showtooltip
+/startattack [combat][harm,nodead]
+/cast Battle Shout
+
+Cleave
+#showtooltip Cleave
+/startattack
+/cast Cleave
+
+Death Wish
+#showtooltip Death Wish
+/cast Death Wish
+/use Bloodlust Brooch
+
+Demo
+#showtooltip
+/startattack
+/cast Demoralizing Shout
+
+Execute
+#showtooltip Execute
+/startattack
+/cast Execute
+
+Intercept
+#showtooltip Intercept
+/cast Intercept
+/cast Hamstring
+
+Intimidating
+#showtooltip
+/cleartarget [dead][help]
+/targetenemy [noexists]
+/stopattack
+/cast Intimidating Shout
+
+Mocking Blow
+#showtooltip Mocking Blow
+/startattack
+/cast Battle Stance
+/cast [@mouseover,harm,nodead][] Mocking Blow
+
+Slam
+#showtooltip Slam
+/startattack
+/cast Slam
+
+Swiping Strikes
+#showtooltip Sweeping Strikes
+/startattack
+/stopcasting [form:2/3]
+/cast Berserker Stance
+/cast Sweeping Strikes
+
+SOS Shield
+/equip King's Defender
+/equip Crest of the Sha'tar
+/cast Defensive Stance
+/cast Shield Block
+
+Victory Rush
+#showtooltip Victory Rush
+/startattack
+/cast Victory Rush
+
+Battle Stance
+#showtooltip Battle Stance
+/cast Battle Stance
+/equip Lionheart Champion
+
+Berserker Rage
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/equip Lionheart Champion
+
+Berserker Stance
+#showtooltip Berserker Rage
+/startattack [combat,harm,nodead]
+/cast Berserker Rage
+/cast Berserker Stance
+
+Bloodrage
+/cast Bloodrage
+/stopcasting
+/cast Berserker Rage
+
+Charge Hamstring
+#showtooltip [nocombat]Charge;Intercept
+/cast [form:1,nocombat]Charge;[form:1,combat] Berserker Stance;[form:2,combat]Berserker Stance;[form:3,combat]Intercept; Battle Stance
+/cast Berserker Stance
+
+Defensive Stance
+#showtooltip Defensive Stance
+/cast Defensive Stance
+/equip King's Defender
+/equip Crest of the Sha'tar
+/cast Shield Block
+
+Disarm
+#showtooltip Disarm
+/Cast Defensive Stance
+/Cast Disarm
+
+Heroic Strike
+#showtooltip Heroic Strike
+/startattack
+/cast Heroic Strike
+
+Mortal Strike
+#showtooltip Mortal Strike
+/startattack
+/cast Mortal Strike
+
+Overpower
+#showtooltip Overpower
+/cast Battle Stance
+/cast Overpower
+
+Pummel
+#showtooltip Pummel
+/startattack
+/cast Berserker Stance
+/cast Pummel
+
+Rend
+#showtooltip Rend
+/cast Battle Stance
+/startattack
+/cast Rend
+
+Retaliation
+#showtooltip Retaliation
+/startattack
+/cast Battle Stance
+/cast Retaliation
+
+Taunt
+#showtooltip Taunt
+/startattack [harm,nodead]
+/cast Defensive Stance
+/cast [@mouseover,harm,nodead][] Taunt
+
+Thunder Clap
+#showtooltip Thunder Clap
+/startattack
+/cast Battle Stance
+/cast Thunder Clap
+
+Whirlwind
+#showtooltip Whirlwind
+/startattack
+/cast Whirlwind
+
