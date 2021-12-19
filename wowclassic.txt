@@ -72,12 +72,12 @@ Battle Stance
 /cast Battle Stance
 /equip Lionheart Champion
 
-Berserker Rage
+Berserker Stance
 #showtooltip Berserker Stance
 /cast Berserker Stance
 /equip Lionheart Champion
 
-Berserker Stance
+Berserker Rage
 #showtooltip Berserker Rage
 /startattack [combat,harm,nodead]
 /cast Berserker Rage
