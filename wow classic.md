@@ -10,7 +10,7 @@ Bite=8
 Claw=8
 Frost Resistance=3
 Nature Resistance=1
-Great Stamina=9
+Greater Stamina=9
 ##### Wolf Bloodaxe Worg
 Dash=1
 Howl=4
