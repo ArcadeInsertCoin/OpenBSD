@@ -18,7 +18,7 @@ Bite=8
 Nature Resistance=3
 Fire Resistance=1
 Greater Stamina=10
-##### Son of Hakkar
+##### Wind Serpent Son of Hakkar
 Dive=1
 Lightning Breath=6
 Bite=8
