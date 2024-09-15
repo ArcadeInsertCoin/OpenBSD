@@ -1,7 +1,7 @@
 show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 
-__Warrior Macros__
+Warrior Macros
 
 Battle Shout
 #showtooltip
@@ -167,5 +167,19 @@ Frost ressistance=3
 Nature ressistance=1
 Great Stamina=9
 
-Wolf
+Wolf Bloodaxe Worg
+Dash=1
+Howl=4
+Bite=8
+Nature ressistance=3
+Fire ressistance=1
+Greater Stamina=10
+
+Son of Hakkar
+Dive=1
+Lightning Breath=6
+Bite=8
+Nature ressistance=3
+Fire ressisstance=1
+Greater Stamina=10
 
