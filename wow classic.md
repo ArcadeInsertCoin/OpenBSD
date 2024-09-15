@@ -8,21 +8,21 @@ Dash=3
 Prowl=2
 Bite=8
 Claw=8
-Frost ressistance=3
-Nature ressistance=1
+Frost Resistance=3
+Nature Resistance=1
 Great Stamina=9
 ##### Wolf Bloodaxe Worg
 Dash=1
 Howl=4
 Bite=8
-Nature ressistance=3
-Fire ressistance=1
+Nature Resistance=3
+Fire Resistance=1
 Greater Stamina=10
 ##### Son of Hakkar
 Dive=1
 Lightning Breath=6
 Bite=8
-Nature ressistance=3
-Fire ressisstance=1
+Nature Resistance=3
+Fire Resistance=1
 Greater Stamina=10
 
