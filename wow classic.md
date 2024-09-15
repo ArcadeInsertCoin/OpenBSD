@@ -13,7 +13,7 @@ Nature Resistance=1
 Greater Stamina=9
 ##### Wolf Bloodaxe Worg
 Dash=1
-Howl=4
+Furious Howl=4
 Bite=8
 Nature Resistance=3
 Fire Resistance=1
