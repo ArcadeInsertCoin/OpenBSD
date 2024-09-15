@@ -1,48 +1,48 @@
 ## World of Warcraft Classic helpful staff
 
 #### show current speed
-/script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
+- /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 
 #### Warrior Macros
 
-Battle Shout
+- Battle Shout
 #showtooltip
 /startattack [combat][harm,nodead]
 /cast Battle Shout
 
-Cleave
+- Cleave
 #showtooltip Cleave
 /startattack
 /cast Cleave
 
-Death Wish
+- Death Wish
 #showtooltip Death Wish
 /cast Death Wish
 /use Bloodlust Brooch
 
-Demo
+- Demo
 #showtooltip
 /startattack
 /cast Demoralizing Shout
 
-Execute
+- Execute
 #showtooltip Execute
 /startattack
 /cast Execute
 
-Intercept
+- Intercept
 #showtooltip Intercept
 /cast Intercept
 /cast Hamstring
 
-Intimidating
+- Intimidating
 #showtooltip
 /cleartarget [dead][help]
 /targetenemy [noexists]
 /stopattack
 /cast Intimidating Shout
 
-Mocking Blow
+- Mocking Blow
 #showtooltip Mocking Blow
 /startattack
 /cast Battle Stance
