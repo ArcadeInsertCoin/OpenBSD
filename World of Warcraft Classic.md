@@ -1,4 +1,4 @@
-### World of Warcraft Classic
+# World of Warcraft Classic
 
 #### show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
