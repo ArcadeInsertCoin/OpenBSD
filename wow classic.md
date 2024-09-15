@@ -48,113 +48,113 @@
 /cast Battle Stance
 /cast [@mouseover,harm,nodead][] Mocking Blow
 
-Slam
+- Slam
 #showtooltip Slam
 /startattack
 /cast Slam
 
-Swiping Strikes
+- Swiping Strikes
 #showtooltip Sweeping Strikes
 /startattack
 /stopcasting [form:2/3]
 /cast Berserker Stance
 /cast Sweeping Strikes
 
-SOS Shield
+- SOS Shield
 /equip King's Defender
 /equip Crest of the Sha'tar
 /cast Defensive Stance
 /cast Shield Block
 
-Victory Rush
+- Victory Rush
 #showtooltip Victory Rush
 /startattack
 /cast Victory Rush
 
-Battle Stance
+- Battle Stance
 #showtooltip Battle Stance
 /cast Battle Stance
 /equip Lionheart Champion
 
-Berserker Stance
+- Berserker Stance
 #showtooltip Berserker Stance
 /cast Berserker Stance
 /equip Lionheart Champion
 
-Berserker Rage
+- Berserker Rage
 #showtooltip Berserker Rage
 /startattack [combat,harm,nodead]
 /cast Berserker Rage
 /cast Berserker Stance
 
-Bloodrage
+- Bloodrage
 /cast Bloodrage
 /stopcasting
 /cast Berserker Rage
 
-Charge Hamstring
+- Charge Hamstring
 #showtooltip [nocombat]Charge;Intercept
 /cast [form:1,nocombat]Charge;[form:1,combat] Berserker Stance;[form:2,combat]Berserker Stance;[form:3,combat]Intercept; Battle Stance
 /cast Berserker Stance
 
-Defensive Stance
+- Defensive Stance
 #showtooltip Defensive Stance
 /cast Defensive Stance
 /equip King's Defender
 /equip Crest of the Sha'tar
 /cast Shield Block
 
-Disarm
+- Disarm
 #showtooltip Disarm
 /Cast Defensive Stance
 /Cast Disarm
 
-Heroic Strike
+- Heroic Strike
 #showtooltip Heroic Strike
 /startattack
 /cast Heroic Strike
 
-Mortal Strike
+- Mortal Strike
 #showtooltip Mortal Strike
 /startattack
 /cast Mortal Strike
 
-Overpower
+- Overpower
 #showtooltip Overpower
 /cast Battle Stance
 /cast Overpower
 
-Pummel
+- Pummel
 #showtooltip Pummel
 /startattack
 /cast Berserker Stance
 /cast Pummel
 
-Rend
+- Rend
 #showtooltip Rend
 /cast Battle Stance
 /startattack
 /cast Rend
 
-Retaliation
+- Retaliation
 #showtooltip Retaliation
 /startattack
 /cast Battle Stance
 /cast Retaliation
 
-Taunt
+- Taunt
 #showtooltip Taunt
 /startattack [harm,nodead]
 /cast Defensive Stance
 /cast [@mouseover,harm,nodead][] Taunt
 
-Thunder Clap
+- Thunder Clap
 #showtooltip Thunder Clap
 /startattack
 /cast Battle Stance
 /cast Thunder Clap
 
-Whirlwind
+- Whirlwind
 #showtooltip Whirlwind
 /startattack
 /cast Whirlwind
