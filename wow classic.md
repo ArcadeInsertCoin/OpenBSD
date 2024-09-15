@@ -1,9 +1,9 @@
-** World of Warcraft Classic helpful staff **
+## World of Warcraft Classic helpful staff
 
-show current speed
+#### show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 
-Warrior Macros
+#### Warrior Macros
 
 Battle Shout
 #showtooltip
@@ -159,7 +159,7 @@ Whirlwind
 /startattack
 /cast Whirlwind
 
-Pet Training Points
+#### Pet Training Points
 Broken Tooth
 Dash=3
 Prowl=2
