@@ -1,7 +1,7 @@
 show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 
-Warrior Macros
+### Warrior Macros
 
 Battle Shout
 #showtooltip
@@ -156,4 +156,16 @@ Whirlwind
 #showtooltip Whirlwind
 /startattack
 /cast Whirlwind
+
+Pet Training Points
+Broken Tooth
+Dash=3
+Prowl=2
+Bite=8
+Claw=8
+Frost ressistance=3
+Nature ressistance=1
+Great Stamina=9
+
+Wolf
 
