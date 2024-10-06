@@ -25,4 +25,14 @@ Bite=8
 Nature Resistance=3
 Fire Resistance=1
 Greater Stamina=10
-
+##### Bloodseeker Bat Raid
+Dive=3
+Screech=4
+Bite=8
+Growl=7
+Greater Stamina=6
+Natural Armor=6
+Arcane Resistance=1
+Fire Resistance=3
+Frost Resistance=3
+Shadow Resistance=1
