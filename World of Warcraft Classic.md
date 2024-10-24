@@ -11,7 +11,7 @@ Greater Stamina=10
 Natural Armor=3
 Frost Resistance=2
 Nature Resistance=1
-Greater Stamina=9
+Greater Stamina=10
 Shadow Resistance=2
 ##### Wolf Bloodaxe Worg Raid
 Dash=1
