@@ -4,13 +4,15 @@
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 #### Pet Training Points
 ##### Cat Broken Tooth PVP
-Dash=3
-Prowl=2
-Bite=8
 Claw=8
-Frost Resistance=3
+Prowl=3
+Dash=3
+Greater Stamina=10
+Natural Armor=3
+Frost Resistance=2
 Nature Resistance=1
 Greater Stamina=9
+Shadow Resistance=2
 ##### Wolf Bloodaxe Worg Raid
 Dash=1
 Furious Howl=4
