@@ -4,4 +4,4 @@ yt-dlp -f URL
 
 ### audio-only with the best quality
 
-yt-dlp -f bestaudio <URL>
+yt-dlp -f bestaudio URL
