@@ -34,3 +34,4 @@ Greater Stamina=9
 Natural Armor=4
 Fire Resistance=2
 Frost Resistance=3
+#### Hunter Macros
