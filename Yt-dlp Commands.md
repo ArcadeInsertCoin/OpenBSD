@@ -2,31 +2,31 @@
 
 yt-dlp -f URL
 
-### audio-only with the best quality
+#### audio-only with the best quality
 
 yt-dlp -f bestaudio URL
 
-### download only audio
+#### download only audio
 
 yt-dlp -x --audio-format mp3 URL 
 
-### list all available quality formats
+#### list all available quality formats
 
 yt-dlp -F URL
 
-### download video only
+#### download video only
 
 yt-dlp -f 136 URL
 
-### video and audio combined
+#### video and audio combined
 
 yt-dlp -f 136+140 URL
 
-### download best video quality
+#### download best video quality
 
 yt-dlp -f best 136 URL
 yt-dlp -f bestaudio 136 URL
 
-### downlaod video mp4
+#### downlaod video mp4
 
 yt-dlp -f mp4
