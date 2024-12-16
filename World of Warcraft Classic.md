@@ -40,7 +40,7 @@ Frost Resistance=3
 /cleartarget [dead][help]
 /targetenemy [noexists]
 /cast Aimed Shot
-/cast !Auto Shott
+/cast !Auto Shot
 
 #showtooltip
 /cleartarget [dead][help]
