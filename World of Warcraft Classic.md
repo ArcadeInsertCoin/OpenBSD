@@ -35,6 +35,7 @@ Natural Armor=4
 Fire Resistance=2
 Frost Resistance=3
 #### Hunter Macros
+```
 #showtooltip
 /cleartarget [dead][help]
 /targetenemy [noexists]
@@ -136,7 +137,7 @@ Frost Resistance=3
 /cleartarget [dead][help]
 /cast Raptor Strike
 /cast Wing Clip
-/startattack
+/startattack```
 
 
 
