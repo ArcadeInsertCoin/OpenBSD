@@ -137,7 +137,7 @@ Frost Resistance=3
 /cleartarget [dead][help]
 /cast Raptor Strike
 /cast Wing Clip
-/startattack```
+/startattack
 
 
 
