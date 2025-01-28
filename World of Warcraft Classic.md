@@ -15,7 +15,7 @@ Shadow Resistance=2
 Solo = Growl, Bite, Dash
 
 Raid/Dungeons = Bite, Claw, Dash
-##### Wolf Bloodaxe Worg Raid
+##### Wolf Bloodaxe Worg Raid/Dungeons
 Dash=1
 Furious Howl=4
 Bite=8
