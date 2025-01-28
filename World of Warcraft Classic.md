@@ -11,6 +11,9 @@ Greater Stamina=10
 Natural Armor=3
 Frost Resistance=2
 Shadow Resistance=2
+
+Solo = Growl, Bite, Dash
+Raid/Dungeons = Bite, Claw, Dash
 ##### Wolf Bloodaxe Worg Raid
 Dash=1
 Furious Howl=4
