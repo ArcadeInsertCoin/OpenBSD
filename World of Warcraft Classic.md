@@ -13,6 +13,7 @@ Frost Resistance=2
 Shadow Resistance=2
 
 Solo = Growl, Bite, Dash
+
 Raid/Dungeons = Bite, Claw, Dash
 ##### Wolf Bloodaxe Worg Raid
 Dash=1
