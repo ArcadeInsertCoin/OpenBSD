@@ -12,7 +12,7 @@ Natural Armor=3
 Frost Resistance=2
 Shadow Resistance=2
 
-Solo = Growl, Bite, Dash
+Solo = Growl, Claw, Dash
 
 Raid/Dungeons = Bite, Claw, Dash
 ##### Bloodaxe Worg Raid/Dungeons
