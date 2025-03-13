@@ -2,9 +2,8 @@
 
 #### show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
-#### Pet Training Points
-##### Broken Tooth PVP<br>
-
+### Pet Training Points
+#### Broken Tooth PVP
 Prowl=3  <br>
 Claw=8  <br>
 Dash=3  <br>
@@ -13,24 +12,27 @@ Natural Armor=3  <br>
 Frost Resistance=2  <br>
 Shadow Resistance=2  <br>
 
-Solo = Growl, Claw, Dash
+#### Solo
+Growl  <br>
+Claw  <br>
+Dash  <br>
 
 Raid/Dungeons = Bite, Claw, Dash
-##### Bloodaxe Worg Raid/Dungeons
+#### Bloodaxe Worg Raid/Dungeons
 Dash=1  <br>
 Furious Howl=4  <br>
 Bite=8  <br>
 Nature Resistance=3  <br>
 Fire Resistance=1  <br>
 Greater Stamina=10  <br>
-##### Wind Serpent Son of Hakkar Raid
+#### Wind Serpent Son of Hakkar Raid
 Dive=1  <br>
 Lightning Breath=6  <br>
 Bite=8  <br>
 Nature Resistance=3  <br>
 Fire Resistance=1  <br>
 Greater Stamina=10  <br>
-##### Bloodseeker Bat Raid
+#### Bloodseeker Bat Raid
 Dive=3  <br>
 Screech=4  <br>
 Bite=8  <br>
