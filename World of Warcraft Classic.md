@@ -3,7 +3,7 @@
 #### show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
 #### Pet Training Points
-##### Broken Tooth PVP
+##### Broken Tooth PVP <br>
 Claw=8
 Prowl=3
 Dash=3
