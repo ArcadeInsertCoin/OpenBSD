@@ -16,28 +16,28 @@ Solo = Growl, Claw, Dash
 
 Raid/Dungeons = Bite, Claw, Dash
 ##### Bloodaxe Worg Raid/Dungeons
-Dash=1
-Furious Howl=4
-Bite=8
-Nature Resistance=3
-Fire Resistance=1
-Greater Stamina=10
+Dash=1  <br>
+Furious Howl=4  <br>
+Bite=8  <br>
+Nature Resistance=3  <br>
+Fire Resistance=1  <br>
+Greater Stamina=10  <br>
 ##### Wind Serpent Son of Hakkar Raid
-Dive=1
-Lightning Breath=6
-Bite=8
-Nature Resistance=3
-Fire Resistance=1
-Greater Stamina=10
+Dive=1  <br>
+Lightning Breath=6  <br>
+Bite=8  <br>
+Nature Resistance=3  <br>
+Fire Resistance=1  <br>
+Greater Stamina=10  <br>
 ##### Bloodseeker Bat Raid
-Dive=3
-Screech=4
-Bite=8
-Growl=7
-Greater Stamina=9
-Natural Armor=4
-Fire Resistance=2
-Frost Resistance=3
+Dive=3  <br>
+Screech=4  <br>
+Bite=8  <br>
+Growl=7  <br>
+Greater Stamina=9  <br>
+Natural Armor=4  <br>
+Fire Resistance=2  <br>
+Frost Resistance=3  <br>
 #### Hunter Macros
 ```
 #showtooltip
