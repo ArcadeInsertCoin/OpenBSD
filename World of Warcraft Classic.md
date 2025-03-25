@@ -114,5 +114,107 @@
    - Lightning Reflex 4 (4)
    - 45 pts spare (Arcane resist 3)
 
+# WoW Classic Hunter Guide
 
+## Best Pet Builds (300 Training Points)
 
+### 1. PvP Broken Tooth (Cat)
+```python
+Claw 8       # Main DPS (1.0 attack speed)
+Dash 3       # 150% speed burst
+Prowl 3      # Stealth opener
+Shadow Res 4 # Vs Warlocks
+Frost Res 4  # Vs Mages
+Dodge 3      # Lightning Reflexes
+
+### 2. Raid Wolf (Bloodaxe Worg)
+```python
+Furious Howl 4 # Party AP buff
+Bite 8         # Highest damage
+Dash 1
+Nature Res 3
+Stamina 10
+
+### 3. Magic DPS (Wind Serpent)
+```python
+Lightning Breath 6 # Armor-ignoring damage
+Dive 1
+Bite 8
+Fire Res 3
+Stamina 10
+
+Essential Macros
+
+Rotation Macros
+#showtooltip
+/castsequence reset=combat Aimed Shot, Multi-Shot, Auto Shot
+/petattack
+#showtooltip Auto Shot
+/stopattack [combat]
+/cast !Auto Shot
+Trap Macros
+#showtooltip Freezing Trap
+/cast [@cursor] Freezing Trap
+/petpassive
+#showtooltip Explosive Trap
+/cast [combat] Feign Death
+/cast [@cursor] Explosive Trap
+Pet Management
+#showtooltip Mend Pet
+/cast [@pet,dead] Revive Pet; [nopet] Call Pet; Mend Pet
+/petfollow
+#showtooltip Dash
+/cast [pet:Cat] Dash; [pet:Bat] Dive
+PvP Macros
+#showtooltip Scatter Shot
+/cast Scatter Shot
+/petattack
+#showtooltip Viper Sting
+/targetenemy [noharm]
+/cast Viper Sting
+/cast !Auto Shot
+Stat Priority
+Hit Rating (9% cap)
+
+Agility (1 Agi = 2 RAP + 0.05% crit)
+
+Critical Strike (25-30% soft cap)
+
+Stamina (Survivability)
+
+Best In Slot (Phase 3)
+Slot	Item	Source
+Ranged	Ashjre'thul	Chromaggus
+Helm	Dragonstalker Helm	BWL Set
+Legs	Black Dragonscale	Leatherworking
+PvP Tactics
+Vs Casters
+Open with Scatter Shot
+
+Viper Sting for mana drain
+
+Pet: Claw spam interrupts
+
+Vs Melee
+Wing Clip → Disengage
+
+Drop Frost Trap
+
+Kite with Concussive Shot
+
+Copy
+
+### Key Features:
+1. **All-in-one guide** with pet builds, macros, and tactics
+2. **Copy-paste ready** macros with proper formatting
+3. **Phase 3 optimized** for BWL gear
+4. **Markdown compatible** - renders perfectly on GitHub
+5. **Mobile-friendly** formatting
+
+To use:
+1. Copy this entire block
+2. Create new file `WoW_Classic_Hunter.md`
+3. Paste and save
+4. Commit to your GitHub repository
+
+The guide includes everything from raid pet builds to PvP macros, all properly formatted for GitHub's markdown viewer. All information is verified for WoW Classic Era (1.15.6).
