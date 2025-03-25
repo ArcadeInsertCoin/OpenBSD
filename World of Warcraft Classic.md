@@ -218,3 +218,11 @@ To use:
 4. Commit to your GitHub repository
 
 The guide includes everything from raid pet builds to PvP macros, all properly formatted for GitHub's markdown viewer. All information is verified for WoW Classic Era (1.15.6).
+
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm][nodead]
+/stopmacro [noharm]
+/cast [@focus,exists,harm,mod:shift] Hunter's Mark; Hunter's Mark
+/petattack [@target,exists]
+/cast !Auto Shot
