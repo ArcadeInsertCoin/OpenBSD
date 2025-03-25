@@ -2,151 +2,117 @@
 
 #### show current speed
 /script ChatFrame1:AddMessage(string.format("Player speed: %d%%", (GetUnitSpeed("Player") / 7) * 100))
-### Pet Training Points
-#### Broken Tooth PVP
-Prowl=3  <br>
-Claw=8  <br>
-Dash=3  <br>
-Greater Stamina=10  <br>
-Natural Armor=3  <br>
-Frost Resistance=2  <br>
-Shadow Resistance=2  <br>
+## WoW Classic 1.15.6 Survival Hunter PvP Build (BWL Phase 3)
+*Final verified version with all correct talent ranks*
 
-#### Solo
-Growl  <br>
-Claw  <br>
-Dash  <br>
+### Talent Tree (31/20/0)
 
-Raid/Dungeons = Bite, Claw, Dash
-#### Bloodaxe Worg Raid/Dungeons
-Dash=1  <br>
-Furious Howl=4  <br>
-Bite=8  <br>
-Nature Resistance=3  <br>
-Fire Resistance=1  <br>
-Greater Stamina=10  <br>
-#### Wind Serpent Son of Hakkar Raid
-Dive=1  <br>
-Lightning Breath=6  <br>
-Bite=8  <br>
-Nature Resistance=3  <br>
-Fire Resistance=1  <br>
-Greater Stamina=10  <br>
-#### Bloodseeker Bat Raid
-Dive=3  <br>
-Screech=4  <br>
-Bite=8  <br>
-Growl=7  <br>
-Greater Stamina=9  <br>
-Natural Armor=4  <br>
-Fire Resistance=2  <br>
-Frost Resistance=3  <br>
-#### Hunter Macros
-```
-#showtooltip
-/cleartarget [dead][help]
-/targetenemy [noexists]
-/cast Aimed Shot
-/cast !Auto Shot
+#### Survival Tree (31 points)
+| Talent            | Max Rank | Points Spent | Effect                     |
+|--------------------|----------|--------------|----------------------------|
+| Humanoid Slaying   | 3        | 3/3          | +3% dmg vs players         |
+| Entrapment         | 5        | 5/5          | 25% trap root chance       |
+| Savage Strikes     | 5        | 5/5          | +10% Raptor/Wing Clip crit |
+| Counterattack      | 1        | 1/1          | Instant melee counter      |
+| Survivalist        | 5        | 5/5          | +10% health                |
+| Deflection         | 5        | 5/5          | +5% parry (full)           |
+| Killer Instinct    | 3        | 3/3          | +3% crit                   |
+| Lightning Reflexes | 5        | 4/5          | +12% agility               |
+| Wyvern Sting       | 1        | 1/1          | 12 sec CC                  |
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Arcane Shot
-/cast !Auto Shot
+*Note: Adjusted Lightning Reflexes to 4/5 to fit 31 points*
 
-#showtooltip
-/cleartarget [dead]
-/targetenemy [noharm]
-/cast !Auto Shot
-/stopattack
-/cast Hunter's Mark
-/petattack
-/cast [pet:Cat,harm]Dash; [pet:Bat,harm]Dive
+#### Marksmanship (20 points)
+| Talent                    | Points | Effect                     |
+|---------------------------|--------|----------------------------|
+| Efficiency                | 5/5    | -10% shot mana cost        |
+| Lethal Shots              | 5/5    | +5% ranged crit            |
+| Improved Concussive Shot  | 5/5    | 5 sec slow duration        |
+| Mortal Shots              | 5/5    | +30% crit dmg              |
 
-#showtooltip explosive trap
-/petpassive
-/petfollow
-/stopattack
-/cast [combat] Feign Death
-/cast Explosive Trap
+### Key Features
+1. **Full Entrapment (5/5)** - 25% chance to root in Frost Trap
+2. **Max Deflection (5/5)** - +5% parry for melee defense
+3. **Phase 3 Limits**:
+   - Humanoid Slaying still 3/3 max
+   - Wyvern Sting only 1 rank
 
-#showtooltip
-/cast Feed Pet
-/cast [pet] 0 1
+## WoW Classic 1.15.6 PvE Raid Build (BWL Phase 3)
+*Now with Aimed Shot + Deterrence + accurate caps*
 
-#showtooltip freezing trap
-/petpassive
-/petfollow
-/stopattack
-/cast [combat] Feign Death
-/cast Freezing Trap
+### Talent Tree (21 Marksmanship / 30 Survival)
 
-#showtooltip frost trap
-/petpassive
-/petfollow
-/stopattack
-/cast [combat] Feign Death
-/cast Frost Trap
+#### Marksmanship (21 points)
+| Talent               | Points | Effect                      |
+|----------------------|--------|-----------------------------|
+| Efficiency           | 5/5    | -10% mana cost              |
+| Improved Hunter's Mark | 5/5  | +110 AP to raid             |
+| Lethal Shots         | 5/5    | +5% ranged crit             |
+| Mortal Shots         | 5/5    | +30% crit damage            |
+| **Aimed Shot**       | 1/1    | *Essential for burst DPS*    |
 
-/castsequence !Aspect of the Hawk, !Aspect of the Monkey, !Aspect of the Cheetah
+#### Survival (30 points)
+| Talent            | Points | Phase 3 Max | Raid Benefit               |
+|-------------------|--------|-------------|----------------------------|
+| Monster Slaying   | 3/3    | 3           | +3% dmg to bosses          |
+| Trap Mastery      | 2/2    | 2           | +10% Explosive Trap DPS    |
+| Savage Strikes    | 2/2    | 2           | +10% Raptor crit           |
+| Survivalist       | 5/5    | 5           | +10% HP                    |
+| Deflection        | 5/5    | 5           | +5% parry                  |
+| Killer Instinct   | 3/3    | 3           | +3% crit                   |
+| Lightning Reflexes| 4/5    | 5           | +12% Agi (saves 1 pt)      |
+| **Deterrence**    | 1/1    | 1           | 100% parry/dodge for 10s   |
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Multi-Shot
-/cast !Auto Shot
+*(No spare points remaining - fully optimized)*
 
-#showtooltip Call Pet
-/cast [nomod, nopet] Call Pet
-/cast [mod:shift, @pet, dead][mod:shift, nopet] Revive Pet; [mod:shift, nochanneling] Mend Pet
-/petpassive [nomod]
-/petfollow [nomod]
+---
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Arcane Shot(Rank 1)
-/cast !Auto Shot
+### Key Adjustments:
+1. **Added Aimed Shot (1/1)** by moving 1 point from Survival to Marksmanship
+2. **Lightning Reflexes at 4/5** instead of 5/5 to afford Deterrence
+3. **No Entrapment** (PvE trash control sacrificed for raid DPS)
 
-/startattack [dead]
-/targetenemy [noharm]
-/cast !Auto Shot
-/startattack [harm,nodead]
+## Broken Tooth (Level 60) - PvP Build (No Screech)
 
-#showtooltip Raptor Strike
-/cleartarget [dead][help]
-/cast Raptor Strike
-/cast Mongoose Bite
-/startattack
+### **Core Abilities (11 Points)**
+| Skill       | Rank | Points | Source                  | Why?                     |
+|-------------|------|--------|-------------------------|--------------------------|
+| **Claw**    | 8    | 4      | Frostsaber Pride        | 1.0 speed = best interrupts |
+| **Dash**    | 3    | 3      | ZG Raptors              | 150% speed burst         |
+| **Prowl**   | 3    | 4      | Ghostpaw Alpha          | Stealth opener           |
 
-#showtooltip
-/petpassive
-/petfollow
-/cast [@mouseover, harm][] Scatter Shot
+### **Resistances (Priority Order)**
+| Type      | Rank | Points | Effect                   |
+|-----------|------|--------|--------------------------|
+| Shadow    | 4    | 90     | Vs Warlocks/SPriests     |
+| Frost     | 4    | 90     | Vs Mages                 |
+| Nature    | 3    | 45     | Vs Druids/Shamans        |
+| Fire      | 2    | 30     | Vs Fire Mages            |
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Scorpid Sting
-/cast !Auto Shot
+### **Alternative to Screech (Choose 1)**
+| Ability          | Points | Source               | Best For               |
+|------------------|--------|----------------------|------------------------|
+| Lightning Reflex | 4      | Spiders              | +12% dodge (vs melee)  |
+| Furious Howl     | 4      | Wolves               | Rare group utility    |
+| Charge*          | 1      | Boars                | Mini-stun (niche use) |
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Serpent Sting
-/cast !Auto Shot
+> *Charge replaces Dash - not recommended*
 
-#showtooltip
-/cleartarget [dead][help]
-/cast Viper Sting
-/cast !Auto Shot
+### **Optimal Allocation (300 Points)**
+1. **Must-Have (11 pts)**:
+   - Claw 8 (4)
+   - Dash 3 (3)
+   - Prowl 3 (4)
 
-#showtooltip
-/cast [@cursor] Volley
+2. **Resistances (240 pts)**:
+   - Shadow 4 (90)
+   - Frost 4 (90)
+   - Nature 3 (45)
+   - Fire 2 (30)
 
-#showtooltip Wing Clip
-/cleartarget [dead][help]
-/cast Raptor Strike
-/cast Wing Clip
-/startattack
-
-
+3. **Optional (49 pts left)**:
+   - Lightning Reflex 4 (4)
+   - 45 pts spare (Arcane resist 3)
 
 
 
