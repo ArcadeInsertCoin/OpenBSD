@@ -219,7 +219,7 @@ To use:
 
 The guide includes everything from raid pet builds to PvP macros, all properly formatted for GitHub's markdown viewer. All information is verified for WoW Classic Era (1.15.6).
 
-#showtooltip
+#showtooltip Hunter's Mark
 /cleartarget [dead]
 /targetenemy [noharm][nodead]
 /stopmacro [noharm]
