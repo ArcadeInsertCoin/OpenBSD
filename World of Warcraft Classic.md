@@ -223,6 +223,6 @@ The guide includes everything from raid pet builds to PvP macros, all properly f
 /cleartarget [dead]
 /targetenemy [noharm][nodead]
 /stopmacro [noharm]
-/cast [@focus,exists,harm,mod:shift] Hunter's Mark; Hunter's Mark
-/petattack [@target,exists]
+/cast Hunter's Mark
+/petattack
 /cast !Auto Shot
