@@ -226,3 +226,63 @@ The guide includes everything from raid pet builds to PvP macros, all properly f
 /cast Hunter's Mark
 /petattack
 /cast !Auto Shot
+
+# Phase 3 Perfect PvP Build (30/21/0)
+
+## **Survival (30 Points)**
+```markdown
+3/3 Humanoid Slaying  
+5/5 Entrapment  
+2/2 Savage Strikes  
+1/1 Counterattack  
+5/5 Survivalist  
+5/5 Deflection  
+3/3 Killer Instinct  
+5/5 Lightning Reflexes  
+1/1 Deterrence  
+# Wyvern Sting removed to get Aimed Shot
+
+5/5 Efficiency  
+5/5 Lethal Shots  
+5/5 Improved Conc Shot  
+1/1 Scatter Shot  
+5/5 Mortal Shots  
+1/1 Aimed Shot  # << NOW INCLUDED
+
+Key Changes:
+Removed Wyvern Sting (11 pts saved)
+
+Added Scatter Shot + Aimed Shot (21 pts in Marks)
+
+Kept Deterrence (essential vs melee)
+
+Why This Tradeoff Works:
+Aimed Shot provides burst (3.0 weapon dmg)
+
+Scatter Shot guarantees 4 sec CC
+
+Deterrence still counters warriors/rogues
+
+You lose: Wyvern Sting's 12s CC, but gain more kill pressure
+Scatter Shot (4s) → Aimed Shot → Auto Shot → Multi-Shot  
+# Total: ~3k damage in 4 seconds (kills most clothies)
+Pet Build Adjustments:
+Since we lost Wyvern Sting, make your Broken Tooth compensate:
+Claw 8 (4 pts)  
+Dash 3 (3 pts)  
+Prowl 3 (4 pts)  
+Screech 4 (4 pts)  # -56 AP debuff replaces lost CC  
+Shadow/Frost Res 4 (180 pts)
+When to Use This Build:
+Battlegrounds: Where burst matters more than CC
+
+Duels: Against mages/rogues who die to scatter→aimed
+
+World PvP: When you need to delete targets fast
+
+When to Use Wyvern Sting Build:
+Arathi Basin: For holding nodes with CC
+
+Vs Healer Comps: To lock down priests/druids
+
+Want me to tweak it further? For example, we could drop 3/3 Killer Instinct to get 2/2 Improved Wing Clip if melee kiting is a priority. 😊
