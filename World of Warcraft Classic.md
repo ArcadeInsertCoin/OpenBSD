@@ -80,6 +80,8 @@
 | **Claw**    | 8    | 4      | Frostsaber Pride        | 1.0 speed = best interrupts |
 | **Dash**    | 3    | 3      | ZG Raptors              | 150% speed burst         |
 | **Prowl**   | 3    | 4      | Ghostpaw Alpha          | Stealth opener           |
+| **Growl**   | 7    | 4      | Aggro                   | Aggro           |
+
 
 ### **Resistances (Priority Order)**
 | Type      | Rank | Points | Effect                   |
