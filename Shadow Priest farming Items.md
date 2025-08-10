@@ -11,7 +11,7 @@
 | Item | Source |
 |------|--------|
 | **Choker of the Firelord** | MC – Ragnaros |
-| **Charm of the Shifting Sands** | AQ20 – Ossirian |
+| **Charm of the Shifting Sands** | AQ20 – Ossirian Head|
 | **Jeklik's Opaline Talisman** | ZG – High Priestess Jeklik |
 
 ---
