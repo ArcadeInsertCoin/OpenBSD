@@ -3,12 +3,12 @@
 **Spec:** Shadow DPS  
 **Patch:** 1.15.7 – Phase 5  
 **Server:** PvE  
-**Berufe:** Kräuterkunde 🌿 / Verzauberung ✨  
+**Professions:** Herbalism 🌿 / Enchanting ✨  
 
 ---
 
-## 🧿 Halsketten
-| Item | Quelle |
+## 🧿 Neck
+| Item | Source |
 |------|--------|
 | **Choker of the Firelord** | MC – Ragnaros |
 | **Charm of the Shifting Sands** | AQ20 – Ossirian |
@@ -16,84 +16,84 @@
 
 ---
 
-## 🛡️ Schultern
-| Item | Quelle |
+## 🛡️ Shoulders
+| Item | Source |
 |------|--------|
 | **Mantle of the Blackwing Cabal** | BWL – Razorgore |
 
 ---
 
-## 🧥 Rücken
-| Item | Quelle |
+## 🧥 Back
+| Item | Source |
 |------|--------|
 | **Cloak of Consumption** | ZG – Hakkar |
 | **Cloak of the Hakkari Worshipers** | ZG – Thekal / Venoxis |
 
 ---
 
-## 🥼 Brust
-| Item | Quelle |
+## 🥼 Chest
+| Item | Source |
 |------|--------|
-| **Garb of Royal Ascension** | AQ40 – Zone Drop (~0,2%) |
+| **Garb of Royal Ascension** | AQ40 – Zone Drop (~0.2%) |
 
 ---
 
-## ⛓️ Handgelenke
-| Item | Quelle |
+## ⛓️ Wrists
+| Item | Source |
 |------|--------|
-| **Rockfury Bracers** | Cenarion Circle – Ehrfürchtig |
+| **Rockfury Bracers** | Cenarion Circle – Revered |
 
 ---
 
-## 🔮 Zweihand-Waffe
-| Item | Quelle |
+## 🔮 Two-Hand Weapon
+| Item | Source |
 |------|--------|
-| **Staff of the Ruins** | AQ20 – Ossirian (~18%) / Priesterquest |
+| **Staff of the Ruins** | AQ20 – Ossirian (~18%) / Priest Class Quest |
 
 ---
 
-## 🪢 Taille
-| Item | Quelle |
+## 🪢 Waist
+| Item | Source |
 |------|--------|
 | **Sash of Whispered Secrets** | MC – Majordomo Executus |
-| **Belt of Untapped Power** | ZG – Diverse Bosse |
+| **Belt of Untapped Power** | ZG – Various Bosses |
 
 ---
 
-## 🥾 Füße
-| Item | Quelle |
+## 🥾 Feet
+| Item | Source |
 |------|--------|
 | **Betrayer's Boots** | ZG – High Priest Thekal (~40%) |
 
 ---
 
-## 💍 Ringe
-| Item | Quelle |
+## 💍 Rings
+| Item | Source |
 |------|--------|
 | **Ring of Spell Power** | MC – Ragnaros |
 | **Band of Forced Concentration** | BWL – Ebonroc |
 | **Rune Band of Wizardry** | UBRS (~25%) |
-| **Band of Servitude** | ZG – Diverse Bosse |
+| **Band of Servitude** | ZG – Various Bosses |
 
 ---
 
-## 📜 Schmuckstücke
-| Item | Quelle |
+## 📜 Trinkets
+| Item | Source |
 |------|--------|
 | **Neltharion's Tear** | BWL – Nefarian |
 | **Briarwood Reed** | UBRS (~31%) |
 
 ---
 
-## 🔫 Zauberstab
-| Item | Quelle |
+## 🔫 Wand
+| Item | Source |
 |------|--------|
 | **Touch of Chaos** | ZG – Hakkar |
 
 ---
 
-## 👑 Kopf
-| Item | Quelle |
+## 👑 Head
+| Item | Source |
 |------|--------|
 | **Skul's Ghastly Touch** | Stratholme – Skul (~30%) |
 
