@@ -80,6 +80,7 @@
 ## 📜 Trinkets
 | Item | Source |
 |------|--------|
+| **Talisman of Ephemeral Power** | MC – Various Bosses |
 | **Neltharion's Tear** | BWL – Nefarian |
 | **Briarwood Reed** | UBRS (~31%) |
 
