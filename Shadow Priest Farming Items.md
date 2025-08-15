@@ -60,13 +60,6 @@
 
 ---
 
-## 🥾 Feet
-| Item | Source |
-|------|--------|
-| **Betrayer's Boots** | ZG – High Priest Thekal (~40%) |
-
----
-
 ## 💍 Rings
 | Item | Source |
 |------|--------|
