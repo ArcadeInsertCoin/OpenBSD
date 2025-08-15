@@ -11,7 +11,6 @@
 | Item | Source |
 |------|--------|
 | **Choker of the Firelord** | MC – Ragnaros |
-| **Charm of the Shifting Sands** | AQ20 – Ossirian Head|
 
 ---
 
