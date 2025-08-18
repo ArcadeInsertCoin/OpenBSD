@@ -36,13 +36,6 @@
 
 ---
 
-## ⛓️ Wrists
-| Item | Source |
-|------|--------|
-| **Rockfury Bracers** | Cenarion Circle – Revered |
-
----
-
 ## 🔮 Two-Hand Weapon
 | Item | Source |
 |------|--------|
