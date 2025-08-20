@@ -10,7 +10,7 @@
 |------|------|--------|
 | **Sash of Whispered Secrets** | Waist | Majordomo Executus |
 | **Choker of the Firelord** | Neck | Ragnaros |
-| **Ring of Spell Power** | Ring | Ragnaros |
+| **Ring of Spell Power** | Ring | Various Bosses |
 | **Talisman of Ephemeral Power** | Trinket | Various Bosses |
 
 ## 🐉 Blackwing Lair (BWL)
