@@ -38,6 +38,7 @@
 | Item | Slot | Source |
 |------|------|--------|
 | **Garb of Royal Ascension** | Chest | Zone Drop (~0.2%) |
+| **Vestments of the Oracle** | Chest | Quest |
 
 ## 🐲 Onyxia's Lair
 | Item | Slot | Source |
