@@ -7,79 +7,55 @@
 
 ---
 
-## 🧿 Neck
-| Item | Source |
-|------|--------|
-| **Choker of the Firelord** | MC – Ragnaros |
+## 🔥 Molten Core (MC)
+| Item | Slot | Source |
+|------|------|--------|
+| **Choker of the Firelord** | Neck | Ragnaros |
+| **Sash of Whispered Secrets** | Waist | Majordomo Executus |
+| **Ring of Spell Power** | Ring | Ragnaros |
+| **Talisman of Ephemeral Power** | Trinket | Various Bosses |
 
 ---
 
-## 🛡️ Shoulders
-| Item | Source |
-|------|--------|
-| **Mantle of the Blackwing Cabal** | BWL – Razorgore |
+## 🐉 Blackwing Lair (BWL)
+| Item | Slot | Source |
+|------|------|--------|
+| **Mantle of the Blackwing Cabal** | Shoulders | Razorgore |
+| **Band of Forced Concentration** | Ring | Ebonroc |
+| **Neltharion's Tear** | Trinket | Nefarian |
 
 ---
 
-## 🧥 Back
-| Item | Source |
-|------|--------|
-| **Cloak of Consumption** | ZG – Hakkar |
-| **Cloak of the Hakkari Worshipers** | ZG – Thekal / Venoxis |
+## 🏜️ AQ20
+| Item | Slot | Source |
+|------|------|--------|
+| **Staff of the Ruins** | Two-Hand | Ossirian (~18%) / Priest Class Quest |
 
 ---
 
-## 🥼 Chest
-| Item | Source |
-|------|--------|
-| **Garb of Royal Ascension** | AQ40 – Zone Drop (~0.2%) |
+## 🏯 AQ40
+| Item | Slot | Source |
+|------|------|--------|
+| **Garb of Royal Ascension** | Chest | Zone Drop (~0.2%) |
 
 ---
 
-## 🔮 Two-Hand Weapon
-| Item | Source |
-|------|--------|
-| **Staff of the Ruins** | AQ20 – Ossirian (~18%) / Priest Class Quest |
+## 🐍 Zul'Gurub (ZG)
+| Item | Slot | Source |
+|------|------|--------|
+| **Cloak of Consumption** | Back | Hakkar |
+| **Cloak of the Hakkari Worshipers** | Back | Thekal / Venoxis |
+| **Belt of Untapped Power** | Waist | Various Bosses |
+| **Band of Servitude** | Ring | Various Bosses |
+| **Touch of Chaos** | Wand | Hakkar |
 
 ---
 
-## 🪢 Waist
-| Item | Source |
-|------|--------|
-| **Sash of Whispered Secrets** | MC – Majordomo Executus |
-| **Belt of Untapped Power** | ZG – Various Bosses |
-
----
-
-## 💍 Rings
-| Item | Source |
-|------|--------|
-| **Ring of Spell Power** | MC – Ragnaros |
-| **Band of Forced Concentration** | BWL – Ebonroc |
-| **Rune Band of Wizardry** | UBRS (~25%) |
-| **Band of Servitude** | ZG – Various Bosses |
-
----
-
-## 📜 Trinkets
-| Item | Source |
-|------|--------|
-| **Talisman of Ephemeral Power** | MC – Various Bosses |
-| **Neltharion's Tear** | BWL – Nefarian |
-| **Briarwood Reed** | UBRS (~31%) |
-
----
-
-## 🔫 Wand
-| Item | Source |
-|------|--------|
-| **Touch of Chaos** | ZG – Hakkar |
-
----
-
-## 👑 Head
-| Item | Source |
-|------|--------|
-| **Skul's Ghastly Touch** | Stratholme – Skul (~30%) |
+## 🏰 Dungeons
+| Item | Slot | Source |
+|------|------|--------|
+| **Rune Band of Wizardry** | Ring | UBRS (~25%) |
+| **Briarwood Reed** | Trinket | UBRS (~31%) |
+| **Skul's Ghastly Touch** | Head | Stratholme – Skul (~30%) |
 
 ---
