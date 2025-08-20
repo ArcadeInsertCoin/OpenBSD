@@ -37,7 +37,7 @@
 ## 🐲 Onyxia's Lair
 | Item | Slot | Source |
 |------|------|--------|
-| **Onyxia Tooth Pendant** | Head/Neck | Onyxia |
+| **Onyxia Tooth Pendant** | Head | Onyxia |
 
 ## 🏰 Dungeons
 | Item | Slot | Source |
