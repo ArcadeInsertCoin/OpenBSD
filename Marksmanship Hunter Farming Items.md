@@ -6,75 +6,57 @@
 
 ---
 
-## 👑 Head
-| Item | Source |
-|------|--------|
-| **Striker's Diadem** | AQ40 – Various Bosses |
-| **Onyxia Tooth Pendant** | Onyxia |
+## 🔥 Molten Core (MC)
+| Item | Slot | Source |
+|------|------|--------|
+| **Wristguards of True Flight** | Wrists | Majordomo Executus |
+| **Dragonstalker's Legguards** | Legs | Ragnaros (~20%) |
+| **Band of Accuria** | Ring | Ragnaros (~24%) |
 
 ---
 
-## 🧿 Neck
-| Item | Source |
-|------|--------|
-| **Prestor's Talisman of Connivery** | BWL – Various Bosses (~30%) |
+## 🐉 Blackwing Lair (BWL)
+| Item | Slot | Source |
+|------|------|--------|
+| **Prestor's Talisman of Connivery** | Neck | Various Bosses (~30%) |
+| **Drake Fang Talisman** | Trinket | Ebonroc (~33%) |
 
 ---
 
-## 🧥 Back
-| Item | Source |
-|------|--------|
-| **Cloak of the Unseen Path** | AQ20 – Quest Reward |
+## 🐍 Zul'Gurub (ZG)
+| Item | Slot | Source |
+|------|------|--------|
+| **Blooddrenched Footpads** | Feet | High Priest Venoxis (~17%) |
 
 ---
 
-## 🥼 Chest
-| Item | Source |
-|------|--------|
-| **Striker's Hauberk** | AQ40 – Various Bosses |
+## 🏜️ AQ20
+| Item | Slot | Source |
+|------|------|--------|
+| **Cloak of the Unseen Path** | Back | Quest Reward |
+| **Ossirian's Binding** | Wrists | Ossirian the Unscarred |
 
 ---
 
-## ⛓️ Wrists
-| Item | Source |
-|------|--------|
-| **Wristguards of True Flight** | MC – Majordomo Executus |
-| **Ossirian's Binding** | AQ20 – Ossirian the Unscarred |
+## 🏯 AQ40
+| Item | Slot | Source |
+|------|------|--------|
+| **Striker's Diadem** | Head | Various Bosses |
+| **Striker's Hauberk** | Chest | Various Bosses |
 
 ---
 
-## ⚔️ Weapons
-| Item | Source |
-|------|--------|
-| **Huntsman's Harpoon** | Dire Maul East – Isalien (~17%) |
-| **Barbarous Blade** | Dire Maul North – King Gordok (~24%) |
+## 🐲 Onyxia's Lair
+| Item | Slot | Source |
+|------|------|--------|
+| **Onyxia Tooth Pendant** | Head/Neck | Onyxia |
 
 ---
 
-## 🦵 Legs
-| Item | Source |
-|------|--------|
-| **Dragonstalker's Legguards** | MC – Ragnaros (~20%) |
-
----
-
-## 🥾 Feet
-| Item | Source |
-|------|--------|
-| **Blooddrenched Footpads** | ZG – High Priest Venoxis (~17%) |
-
----
-
-## 💍 Rings
-| Item | Source |
-|------|--------|
-| **Band of Accuria** | MC – Ragnaros (~24%) |
-
----
-
-## 📜 Trinkets
-| Item | Source |
-|------|--------|
-| **Drake Fang Talisman** | BWL – Ebonroc (~33%) |
+## 🏰 Dungeons
+| Item | Slot | Source |
+|------|------|--------|
+| **Huntsman's Harpoon** | Weapon | Dire Maul East – Isalien (~17%) |
+| **Barbarous Blade** | Weapon | Dire Maul North – King Gordok (~24%) |
 
 ---
