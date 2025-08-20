@@ -24,7 +24,6 @@
 |------|------|--------|
 | **Cloak of the Hakkari Worshipers** | Back | Thekal / Venoxis |
 | **Belt of Untapped Power** | Waist | Various Bosses |
-| **Band of Servitude** | Ring | Various Bosses |
 | **Cloak of Consumption** | Back | Hakkar |
 | **Touch of Chaos** | Wand | Hakkar |
 
