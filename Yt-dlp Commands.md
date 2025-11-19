@@ -5,6 +5,7 @@ yt-dlp -f URL
 #### audio-only with the best quality
 
 yt-dlp -f bestaudio URL
+yt-dlp --no-playlist -x --audio-format mp3 URL
 
 #### download only audio
 
